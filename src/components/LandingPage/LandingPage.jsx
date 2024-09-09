@@ -167,7 +167,7 @@ function LandingPage() {
       setRedirectUrl("https://paystack.com/pay/nocode-design");
     }
     else if(preferredCourse.toLowerCase().includes('devop')){
-      setRedirectUrl("https://paystack.com/pay/dev-op");
+      setRedirectUrl("https://paystack.com/pay/dev-ops");
     }
     else if(preferredCourse.toLowerCase().includes('animation')){
       setRedirectUrl("https://paystack.com/pay/animationcourse");
